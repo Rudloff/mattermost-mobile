@@ -89,7 +89,7 @@
     "jest-cli": "22.4.3",
     "jsdom-global": "3.0.2",
     "nyc": "11.7.1",
-    "react-dom": "16.3.2",
+    "react-dom": "16.3.3",
     "redux-mock-store": "1.5.1",
     "remote-redux-devtools": "0.5.12",
     "remotedev-rn-debugger": "0.8.3",
